@@ -1,6 +1,6 @@
 import random
 
-player = input("Choose rock, paper, or scissors")
+player = input("Choose rock, paper, or scissors:")
 
 computer = random.randint(1, 3)
 
